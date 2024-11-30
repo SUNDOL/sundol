@@ -1,4 +1,4 @@
-### Fuck Off 👋
+### Fuck off 👋
 
 <!--
 Codes and others for my personal blog
