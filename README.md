@@ -77,7 +77,7 @@
 병신성의 최소값은 0, 최대값은 100이다.
 ```
 
-쿨럭 해석 지표
+쿨럭과 사유의 깊이 해석 지표
 
 ![graph](https://github.com/user-attachments/assets/a44cebbb-8ef3-4a23-9052-cb36f2df639b)
 
