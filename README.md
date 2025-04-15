@@ -37,5 +37,3 @@
 - Sports fan, supporting Jeonbuk Hyundai Motors FC since 2000
 - Also supporting Buffalo Bills and Sabres
 
----
-
