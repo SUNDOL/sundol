@@ -1,5 +1,10 @@
 # Jin Hwi Hong
 
+### Residency
+- Seoul, Korea
+  
+---
+
 ### Skills
 - Java (Spring, SpringBoot)
 - JavaScript/TypeScript (React, Vue.js)
@@ -25,4 +30,8 @@
 
 ### Other Works
 - Freelancer Translator, English-Korean/Korean-English (September 2012 - July 2022)
+
+### Misc.
+- Sports fan, supporting Jeonbuk Hyundai Motors FC since 2000
+- Also supporting Buffalo Bills and Sabres
 
