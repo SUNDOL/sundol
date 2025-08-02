@@ -21,6 +21,7 @@
 ---
 
 ### Tech Works
+- Freelancer Web Developer (April 2025 - present)
 - Freelancer Frontend Developer, 08Liter Global Inc. (March 2025 - April 2025)
 - Researcher/Frontend Developer, Spilab Inc. (July 2024 - September 2024)
 - Web Developer, W-Lotto Korea R&D Lab (July 2023 - June 2024)
