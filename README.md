@@ -21,8 +21,8 @@
 ---
 
 ### Tech Works
-- Freelancer Web Developer (April 2025 - present)
-- Freelancer Frontend Developer, 08Liter Global Inc. (March 2025 - April 2025)
+- Pre-Sales Engineer, Ino Friends Inc. (August 2025 - current)
+- Freelancer Web Developer (October 2024 - June 2025)
 - Researcher/Frontend Developer, Spilab Inc. (July 2024 - September 2024)
 - Web Developer, W-Lotto Korea R&D Lab (July 2023 - June 2024)
 - Application Developer, Soft Power Inc. (February 2023 - May 2023)
