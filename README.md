@@ -15,7 +15,7 @@
 ---
 
 ### Education
-- State University of New York at Binghamton, Vestal NY (Did not graduate)
+- Syracuse University
 - Joongdong High School, Seoul
 
 ---
