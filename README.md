@@ -7,7 +7,7 @@
 
 ### Skills
 - Java (Spring, SpringBoot)
-- JavaScript/TypeScript (React, Vue.js)
+- JavaScript/TypeScript (React, Angular, Vue.js, Next.js)
 - Python (Flask, Django)
 - C# (.NET, ASP.NET)
 - SQL (PostgreSQL, Oracle Database, MariaDB) and NoSQL (MongoDB) Databases
@@ -15,13 +15,15 @@
 ---
 
 ### Education
-- Syracuse University
-- Joongdong High School, Seoul
+- Syracuse University (Syracuse, NY)
+- State University of New York at Binghamton (Vestal, NY)
+- Joongdong High School (Seoul)
 
 ---
 
 ### Tech Works
-- Pre-Sales Engineer, Ino Friends Inc. (August 2025 - current)
+- Chief Operating Officer, InoFriends Inc. (January 2026 - current)
+- Operations & Sales Lead, InoFriends Inc. (August 2025 - December 2025)
 - Freelancer Web Developer (October 2024 - June 2025)
 - Researcher/Frontend Developer, Spilab Inc. (July 2024 - September 2024)
 - Web Developer, W-Lotto Korea R&D Lab (July 2023 - June 2024)
