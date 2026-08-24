@@ -7,7 +7,8 @@
 
 ### Skills
 - Java (Spring, SpringBoot)
-- JavaScript/TypeScript (React, Angular, Vue.js, Next.js)
+- JavaScript/TypeScript (React, Angular, Vue.js, Next.js, Express, Fastify)
+- PHP (Laravel)
 - Python (Flask, Django)
 - C# (.NET, ASP.NET)
 - SQL (PostgreSQL, Oracle Database, MariaDB) and NoSQL (MongoDB) Databases
