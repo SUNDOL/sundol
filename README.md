@@ -17,7 +17,6 @@
 
 ### Education
 - Syracuse University (Syracuse, NY)
-- State University of New York at Binghamton (Vestal, NY)
 - Joongdong High School (Seoul)
 
 ---
