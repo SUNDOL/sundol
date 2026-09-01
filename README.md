@@ -32,6 +32,7 @@
 ---
 
 ### Other Works
+- Scouting Report Contributor, Primeira Liga (June 2014 - May 2016)
 - Freelancer Translator, English-Korean/Korean-English (September 2012 - July 2022)
 
 ---
