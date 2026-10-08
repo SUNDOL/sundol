@@ -22,7 +22,8 @@
 ---
 
 ### Tech Works
-- Chief Operating Officer, InoFriends Inc. (January 2026 - current)
+- Solutions and Software Lead, JTEcobiz. (October 2026 - current)
+- Chief Operating Officer, InoFriends Inc. (January 2026 - September 2026)
 - Operations & Sales Lead, InoFriends Inc. (August 2025 - December 2025)
 - Freelancer Web Developer (October 2024 - June 2025)
 - Researcher/Frontend Developer, Spilab Inc. (July 2024 - September 2024)
